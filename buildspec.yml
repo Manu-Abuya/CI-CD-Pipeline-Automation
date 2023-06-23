@@ -9,7 +9,7 @@ phases:
 
   build:
     commands:
-      - go build -o myapp
+      - go build -o myGoApp
 
   test:
     commands:
