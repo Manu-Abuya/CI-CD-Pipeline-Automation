@@ -61,7 +61,6 @@ We would like to express our gratitude to the developers and contributors of Jen
 
 4. **AWS CodeDeploy Documentation**: Documentation for AWS CodeDeploy, providing guidance on application deployment using different deployment strategies. (Link: https://docs.aws.amazon.com/codedeploy/index.html)
 
-5. **GitHub Guides**: GitHub's official guides covering various topics, including repository setup, version control, and CI/CD integration. (Link: https://guides.github.com/)
 
 6. **DevOps Learning Path - LinkedIn Learning**: A comprehensive learning path on DevOps, covering CI/CD concepts, tools, and best practices. (Link: https://www.linkedin.com/learning/paths/become-a-devops-engineer)
 
