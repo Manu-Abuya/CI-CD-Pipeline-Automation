@@ -9,7 +9,7 @@ phases:
 
   build:
     commands:
-      - go build -o myGoApp
+      - go build -o myapp
 
   test:
     commands:
@@ -17,5 +17,5 @@ phases:
 
 artifacts:
   files:
-    - myGoApp
+    - myapp
 
