@@ -53,5 +53,16 @@ We would like to express our gratitude to the developers and contributors of Jen
 
 ## References
 
-Include any references or resources that are helpful for understanding and using the CI/CD pipeline in this section.
+1. **Jenkins Documentation**: Official documentation for Jenkins, covering installation, configuration, and pipeline creation. (Link: https://www.jenkins.io/doc/)
 
+2. **AWS CodePipeline Documentation**: Documentation for AWS CodePipeline, explaining the concepts and usage of the service. (Link: https://docs.aws.amazon.com/codepipeline/index.html)
+
+3. **AWS CodeBuild Documentation**: Detailed documentation for AWS CodeBuild, covering build configurations, setup, and integration with other services. (Link: https://docs.aws.amazon.com/codebuild/index.html)
+
+4. **AWS CodeDeploy Documentation**: Documentation for AWS CodeDeploy, providing guidance on application deployment using different deployment strategies. (Link: https://docs.aws.amazon.com/codedeploy/index.html)
+
+5. **GitHub Guides**: GitHub's official guides covering various topics, including repository setup, version control, and CI/CD integration. (Link: https://guides.github.com/)
+
+6. **DevOps Learning Path - LinkedIn Learning**: A comprehensive learning path on DevOps, covering CI/CD concepts, tools, and best practices. (Link: https://www.linkedin.com/learning/paths/become-a-devops-engineer)
+
+7. **DevOps on AWS - Pluralsight**: Pluralsight course on implementing DevOps practices on AWS, including CI/CD pipelines using Jenkins and AWS services. (Link: https://www.pluralsight.com/courses/devops-aws-operations)
