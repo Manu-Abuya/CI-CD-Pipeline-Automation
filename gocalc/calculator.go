@@ -1,4 +1,4 @@
-package gocalc
+package main
 
 import (
 	"errors"
@@ -12,7 +12,7 @@ func calculate(expression string) (float64, error) {
 	tokens := strings.Fields(expression)
 
 	if len(tokens) < 3 || len(tokens)%2 == 0 {
-		return 0, errors.New("Invalid expression")
+		return 0, nil
 	}
 
 	// Convert the first token to a float64 number
