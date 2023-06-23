@@ -1,4 +1,4 @@
-package main
+package gocalc
 
 import (
 	"errors"
